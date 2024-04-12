@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: Arial;
+}
+
+.title {
+    color: rgb(43, 226, 195);
+}
+
+.parrafo {
+    background-color: rgb(2, 66, 66);
+
+    width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.foto {
+    background-color: blue;
+    width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+
+    position: absolute;
+    top: 500px;
+    right: 635px;
+}
+
+.h2 {
+    color: aqua;
+    
+}
+
+.lista {
+    color: rgb(202, 145, 255);
+    background-color: aqua;
+    display: inline-block;
+    
+}
+
+
+.link {
+    font-size: 20px;
+    position: absolute;
+    top: 300px;
+    right: 850px;
+
+    background-color: azure;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.all{
+   background-color: blanchedalmond;
+    margin: 0 auto;
+    width: 900px;
+    text-align: center;
+}
